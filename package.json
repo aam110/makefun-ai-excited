@@ -1,0 +1,1 @@
+{"description":"FIRST LIGHT — a tiny spark ignites a ringed-planet eclipse. Deterministic procedural PNG for make.fun's ai-excited-01 bounty.","license":"MIT","name":"makefun-ai-excited","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
